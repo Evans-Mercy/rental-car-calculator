@@ -27,7 +27,7 @@ public class Main {
         double gpsRate = 2.95;
         double roadsideRate = 3.95;
 
-        //Basic car rental
+        //Basic car rental rate
 
         double basicCarRental = days * baseRate;
 
